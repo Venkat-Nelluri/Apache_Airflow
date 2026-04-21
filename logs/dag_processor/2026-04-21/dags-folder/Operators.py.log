@@ -1,0 +1,10 @@
+{"timestamp":"2026-04-21T19:14:23.105179Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:14:53.458969Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:15:23.771455Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:15:54.248974Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:16:24.873616Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:16:55.354073Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:17:26.103489Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:17:56.411381Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:18:26.679126Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-21T19:18:57.195140Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Operators.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
