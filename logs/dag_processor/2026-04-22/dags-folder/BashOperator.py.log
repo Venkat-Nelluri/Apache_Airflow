@@ -1,0 +1,2 @@
+{"timestamp":"2026-04-22T02:34:43.894875Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/BashOperator.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-04-22T02:34:43.951972Z","level":"warning","event":"The `airflow.operators.bash.BashOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.bash.BashOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/BashOperator.py","lineno":2,"logger":"py.warnings"}
